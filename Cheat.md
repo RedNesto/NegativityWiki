@@ -21,7 +21,7 @@ Allow player to quickly edit inventory.
 
 Fake lag. Allow player to get teleported thanks to lag.
 
-**FastBow : **
+**FastBow :**
 
 Shoot a lot of arrow in no much time. Visible with the lag make by the player (spawn of many entities) and if you are spectate his inventory, you will see his bow self destruct.
 
@@ -33,7 +33,7 @@ Eat item instantly (and change slot of hand). Usually use in quick combat.
 
 Make the player moving very quickly when moving up on ladders.
 
-**FastPlace / FastBreak : **
+**FastPlace / FastBreak :**
 
 Place or break block faster than normal player.
 
@@ -67,4 +67,26 @@ Remove lot of block around her at the same time.
 
 Make you walking ON blocks (or pass through it).
 
-Cheat in writing: Regen, Scaffold, Sneak, Speed, Spider, Step, Timer and XRay.
+**Regen :**
+
+Regen faster. Work exactly like AntiPotion.
+
+**Scaffold :**
+
+Make you placing block just behind you, but without looking it.
+
+**Sneak :**
+
+Allow you to sneak but you are moving as quickly as if you wasn't sneaking
+
+**Speed :**
+
+Move faster.
+
+**Spider :**
+
+Allow you to walk on a wall like you walk on ground.
+
+**XRay :**
+
+You only see diamond, emerald, iron, gold, restone and lapis. All other blocks are just transparent.
