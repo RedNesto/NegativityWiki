@@ -2,35 +2,39 @@ Welcome to the Negativity wiki!
 
 ## What is Negativity ?
 
-It's an anticheat. The objective is to find cheater, and ban her.
-A lot of things are configurable, and detection are update sometimes.
+It's an anticheat. Its objective is to find cheaters, and ban them.
+A lot of things are configurable, and detections are improved continuously.
 
-## Why negativity exist ?
+## Why does Negativity exist ?
 
-Everyday, there is new cheater. When I wanted to make a minecraft server, I was searching an cheat detector to ban all cheaters. But, like there was not a lot of good AC, i start the creation of negativity.
+Cheaters are playing on many servers every day. When working on my minecraft server, I was searching for a cheat detector able to find and ban all cheaters, but there wasn't a lot of good anticheats so I created my own, Negativity.
 
-## Who detection works ?
+## How are detection working ?
 
 Before adding a detection, i'm testing the behaviour of the player. When i detect something special, I add a detection for it.
 
-## Which cheat are detected ?
+## Which cheats are detected ?
 
-There is a list of all detected cheat [here](https://github.com/Elikill58/Negativity/wiki/Cheat), with a little message which explain what do the hack.
+We have a [list of all detected cheats here](Cheat), with a description explaining what the cheat it covers does.
 
-## I just download it. What I must to configure ?
+## I just downloaded it. What must I to configure ?
 
-Firstly, thanks you for download. You must to check in the /plugins/Negativity/ folders, you will see the file "config.yml". Read it and edit what ever you want. Finally, reload or restart your server.
+Firstly, thank you for download. The configuration file can be found at the default location for the platform you are using (`plugins/Negativity/config.yml` for Spigot).  
+ 
+We recommend you to read it completely and edit everything you want. Make sure to reload or restart your server afterwards.
 
-## I see a lot of permission, i don't understand, HELP !
+## I see a lot of permissions, I don't understand how it works, HELP !
 
-Check [this page](https://github.com/Elikill58/Negativity/wiki/Permissions) (in writing).
+Read the [Permissions page](Permissions) (currently incomplete).
 
 ## Everything works !
 
 That's cool !
 
-## How can i support you ?
+## How can I support you ?
 
-You can just give me 5 stars on [spigot](https://www.spigotmc.org/resources/48399).
-You also can give me some money thanks to my [paypal](https://paypal.me/Arpet).
+You can:
+- give me 5 stars on [spigot](https://www.spigotmc.org/resources/48399).
+- star the project on [Ore](https://ore.spongepowered.org/Elikill58/Negativity) and like it on the [Sponge Forums](https://forums.spongepowered.org/t/negativity-its-an-advanced-anticheat-detection/26098).
+- give me some money via my [PayPal](https://paypal.me/Arpet) or [Tipeee](https://tipeee.com/elikill58).
 <3
