@@ -24,6 +24,20 @@ Reloads the configuration of the plugin.
 
 Usage: `/negativity reload`
 
+### admin
+
+Opens the cheat manager. It also has subcommands.
+
+Permission: `negativity.managecheat` (`negativity.admin` for proxies)
+
+#### updateMessages
+
+Updates the message files by replacing them with the bundled files.
+
+The current files are backed up in `lang_backup` or `messages_backup`, depending on the platform.
+
+Permission: `negativity.managecheat` (`negativity.admin` for proxies)
+
 ## /lang
 
 Changes your language. Only usable if translations are enabled.
