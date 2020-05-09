@@ -4,8 +4,6 @@ Negativity has its own ban subsystem, it is flexible and can be used in two ways
 - manually, with commands
 - automatically, by banning a player when they have too many warns
 
-_This subsystem is only used by Spigot and Sponge plugins, the proxy plugins do not use it._
-
 ## Configuration
 
 The ban subsystem configuration is located in the main config file (`config.yml` or `config.conf`), and is quite simple:
@@ -97,3 +95,12 @@ Uses Sponge's BanService (which delegates to the vanilla system by default).
  Ban plugins usually provide their own service implementation.
 
 However, it has the drawback of not supporting logged bans.
+
+### Proxy
+
+ID: `proxy`
+Platform: Spigot & Sponge
+
+Forwards ban execution and revocations to the proxy companion plugin.
+
+**You must enable bans on the proxy plugin's configuration for it to work**
